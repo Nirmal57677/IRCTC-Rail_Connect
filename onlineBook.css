@@ -1,0 +1,46 @@
+.type,p,[name]{
+    color:rgb(65, 73, 225);
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+   } 
+   h3{
+    color: red;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+
+#follow{
+    color: blueviolet;
+    font-family:monospace;
+    font-weight: 500;
+}
+
+#ticket{
+    color:chartreuse;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight:2em;
+}
+
+.table{
+    background-color:rgb(0, 0, 0);
+}
+
+[type ="button"]{
+        color:greenyellow;
+        background-color: black;
+}
+
+h2{
+    text-decoration:overline;
+    direction:ltr;
+    letter-spacing:5px;
+    
+}
+
+body{
+    background-image: url("https://th.bing.com/th/id/R.c7516fdd29e9cbc8afb7d75ef272641c?rik=njALEjKXuqjuFA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fhuDiDyr.jpg&ehk=uV%2bpyS8Y3U4FhCtbSeuqh0mnh54JoRmuCV997XanRcE%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
